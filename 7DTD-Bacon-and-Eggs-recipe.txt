@@ -1,0 +1,10 @@
+Ingredients:
+ - 1 raw meat
+ - 2 eggs
+
+Directions:
+ 1. Find a Camp Fire with a Cooking Pot.
+ 2. Use any fuel source that will burn for 10 seconds or more.
+ 3. Get the ingredients.
+ 4. Select Bacon and Eggs from the drop down menu.
+ 5. Press Cook.
